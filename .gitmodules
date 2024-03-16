@@ -1,0 +1,15 @@
+[submodule "Navbar"]
+	path = Navbar
+	url = https://github.com/Saqib7865-dev/Navbar.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/Saqib7865-dev/Calculator.git
+[submodule "Amazon clone"]
+	path = Amazon clone
+	url = https://github.com/Saqib7865-dev/Amazon-clone.git
+[submodule "HTML Portfolio"]
+	path = HTML Portfolio
+	url = https://github.com/Saqib7865-dev/html-portfolio.git
+[submodule "Multiplication challenge app"]
+	path = Multiplication challenge app
+	url = https://github.com/Saqib7865-dev/Multiplication-Challenges-App.git
